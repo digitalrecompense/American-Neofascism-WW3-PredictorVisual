@@ -4,11 +4,17 @@ A. Domestic Authoritarian Escalation (DAE)
 Metric	Evidence / Indicator	Weight	Current Score (0-1)
 
 Pretext Expansion	DOJ/White House memos expanding domestic counterterrorism authority	0.15	0.9
+
 ICE & Detention Capacity	Alligator Alcatraz operational, ~100k bed target	0.20	0.85
+
 Military Deployments	NG + Marines in LA, Portland	0.20	0.75
+
 Political Actor Protection	Jan 6 pardons	0.10	0.95
+
 FBI / DOJ Capture	Kash Patel, politicization	0.15	0.8
+
 Legal / Political Pushback	State lawsuits, public opposition	-0.05	0.5
+
 Missing Lethal Authorization	No EO / DOD order to use lethal force domestically	-0.10	0
 
 DAE Weighted Sum:
@@ -22,11 +28,17 @@ B. International Conflict / WW3 Risk (ICR)
 Metric	Evidence / Indicator	Weight	Current Score (0-1)
 
 Direct Threats to Allies	Greenland letters, aggressive rhetoric	0.25	0.95
+
 Military Signaling	DOD posture, troop mobilization, nuclear readiness rhetoric	0.20	0.7
+
 International Condemnation	EU, NATO, Russia/China opposition	0.10	0.85
+
 Historical Escalation Behavior	Impulsivity, past criminal / norm-violating actions	0.20	0.9
+
 Escalation Feedback Loops	Potential retaliation from other states	0.15	0.65
+
 Diplomatic Restraint	Absence of formal declarations	-0.10	0.2
+
 Nuclear / Strategic Weapons Use	Not yet observed	-0.10	0
 
 ICR Weighted Sum:
@@ -72,8 +84,11 @@ Event-Driven Updates:
 Event Type	Score Modifier	Effect
 
 New EO authorizing domestic lethal force	+0.15 DAE, +0.05 ICR	Pushes DAE → 0.92, ICR_adj → 0.95
+
 Confirmed nuclear alert	+0.10 ICR	ICR_adj → 0.95
+
 New ICE political-target detainee report	+0.05 DAE	DAE → 0.82
+
 Major international retaliation (e.g., NATO mobilization)	+0.10 ICR	ICR_adj → 0.88
 
 E. Observations / Critical Notes
