@@ -1,5 +1,6 @@
-Components
-A. Domestic Authoritarian Escalation (DAE)
+# Components
+
+### A. Domestic Authoritarian Escalation (DAE)
 
 Metric	Evidence / Indicator	Weight	Current Score (0-1)
 
@@ -23,7 +24,7 @@ DAE=0.15∗0.9+0.20∗0.85+0.20∗0.75+0.10∗0.95+0.15∗0.8−0.05∗0.5−0.1
 
 → High domestic authoritarian potential (~77%). (initial)
 
-B. International Conflict / WW3 Risk (ICR)
+### B. International Conflict / WW3 Risk (ICR)
 
 Metric	Evidence / Indicator	Weight	Current Score (0-1)
 
@@ -45,7 +46,7 @@ ICR Weighted Sum:
 
 ICR=0.25∗0.95+0.20∗0.7+0.10∗0.85+0.20∗0.9+0.15∗0.65−0.10∗0.2−0.10∗0=0.758
 
-C. Coupled Risk Adjustment
+### C. Coupled Risk Adjustment
 
 We introduce a Domestic Escalation Multiplier (DEM) to reflect how domestic authoritarian consolidation amplifies international risk:
 
@@ -53,7 +54,7 @@ ICRadj=ICR+(DAE∗0.15)=0.758+(0.767∗0.15)=0.872
 
 → Current estimated risk of U.S.-triggered WW3 ≈ 87%, based purely on documented actions, deployments, and Trump’s historical behavioral patterns. (ADJUSTED)
 
-D. Visualization (Conceptual)
+### D. Visualization (Conceptual)
 
 Axes:
 
@@ -91,7 +92,7 @@ New ICE political-target detainee report	+0.05 DAE	DAE → 0.82
 
 Major international retaliation (e.g., NATO mobilization)	+0.10 ICR	ICR_adj → 0.88
 
-E. Observations / Critical Notes
+### E. Observations / Critical Notes
 
 The trajectory is accelerating due to aggressive foreign threats, domestic pretext expansion, and partial institutional capture.
 
