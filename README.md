@@ -16,8 +16,8 @@ example:
 
 
 
-NOTE: You may have to install some dependencies so that Google Collab runs the code correctly without crashing.
+### NOTE: You may have to install some dependencies so that Google Collab runs the code correctly without crashing.
 
-If you run into issues try using this as the very first cell, run it to install the dependencies required:
+### If you run into issues try using this as the very first cell, run it to install the dependencies required:
 
-!pip install feedparser requests beautifulsoup4 nltk scikit-learn matplotlib pandas
+# !pip install feedparser requests beautifulsoup4 nltk scikit-learn matplotlib pandas
