@@ -6,4 +6,4 @@
 
 ##### * Robust News Analyzer & Risk Visualizer (no scikit-learn)
 ##### * Works in Colab, local Jupyter, even restricted browser environments
-#### * Run in Google Colab: paste → run cells → enter topic when prompted
+## * Run in Google Colab: paste → run cells → enter topic when prompted
